@@ -1,6 +1,8 @@
 
 <h1> Browsy is built for People who wants productivity</h1>
-<img src="wbe2.png">
+<img src="image/wbe2.png" style="width: 500px; height: auto;">
+<img src="image/webw.png" style="width: 500px; height: auto;">
+
 
 
 <h2>📁 Structure</h2>
