@@ -1,4 +1,4 @@
-
+<img src="icons/browsy.png" style="width: 200px; height:auto;">
 <h1> Browsy is built for People who wants productivity</h1>
 <img src="image/wbe2.png" style="width: 500px; height: auto;">
 <img src="image/webw.png" style="width: 500px; height: auto;">
